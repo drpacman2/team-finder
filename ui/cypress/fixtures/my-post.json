@@ -1,0 +1,20 @@
+{
+  "id": "my-post-id",
+  "jamId": "gmtk",
+  "author": "TestCurrentUser",
+  "authorId": "current-user-id",
+  "itchAccountIds": "mytestaccount",
+  "description": "This is my existing post that I want to edit. Looking for teammates!",
+  "size": 2,
+  "skillsPossessed": ["CODE", "DESIGN_PRODUCTION"],
+  "skillsSought": ["ART_2D", "MUSIC"],
+  "preferredTools": ["GODOT"],
+  "availability": "FULL_TIME",
+  "timezoneOffsets": ["-5"],
+  "languages": ["en"],
+  "isFavourite": false,
+  "reportCount": 0,
+  "unableToContactCount": 0,
+  "createdAt": "2024-01-10T12:00:00Z",
+  "updatedAt": "2024-01-12T14:30:00Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "post-1",
+  "jamId": "gmtk",
+  "author": "TestUser1",
+  "authorId": "user-1",
+  "itchAccountIds": "testuser1",
+  "description": "Looking for a programmer to help build a puzzle game. I have experience in art and game design. Let's make something great together!\n\nI've participated in 5 game jams before and finished all of them. My previous games are on my itch page.\n\nPrefer to communicate via Discord DMs.",
+  "size": 1,
+  "skillsPossessed": ["ART_2D", "DESIGN_PRODUCTION"],
+  "skillsSought": ["CODE"],
+  "preferredTools": ["GODOT"],
+  "availability": "FULL_TIME",
+  "timezoneOffsets": ["-5", "-6"],
+  "languages": ["en"],
+  "isFavourite": false,
+  "reportCount": 0,
+  "unableToContactCount": 0,
+  "createdAt": "2024-01-15T10:00:00Z",
+  "updatedAt": "2024-01-15T10:00:00Z"
+}

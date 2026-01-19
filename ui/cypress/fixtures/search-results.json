@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "search-post-1",
+      "jamId": "gmtk",
+      "author": "SearchResult1",
+      "authorId": "search-user-1",
+      "description": "Matching search result - programmer needed",
+      "size": 1,
+      "skillsPossessed": ["ART_2D"],
+      "skillsSought": ["CODE"],
+      "preferredTools": ["GODOT"],
+      "availability": "FULL_TIME",
+      "timezoneOffsets": ["-5"],
+      "languages": ["en"],
+      "isFavourite": false,
+      "reportCount": 0,
+      "unableToContactCount": 0,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "search-post-2",
+      "jamId": "gmtk",
+      "author": "SearchResult2",
+      "authorId": "search-user-2",
+      "description": "Another matching search result - artist wanted",
+      "size": 2,
+      "skillsPossessed": ["CODE"],
+      "skillsSought": ["ART_2D"],
+      "preferredTools": ["UNITY"],
+      "availability": "OVERTIME",
+      "timezoneOffsets": ["0"],
+      "languages": ["en", "de"],
+      "isFavourite": true,
+      "reportCount": 0,
+      "unableToContactCount": 0,
+      "createdAt": "2024-01-14T08:30:00Z"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "total": 1
+  }
+}

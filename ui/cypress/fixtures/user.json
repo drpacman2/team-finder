@@ -1,0 +1,8 @@
+{
+  "id": "current-user-id",
+  "username": "TestCurrentUser",
+  "discriminator": "1234",
+  "avatar": "abc123",
+  "isAdmin": false,
+  "isInDiscordServer": true
+}
